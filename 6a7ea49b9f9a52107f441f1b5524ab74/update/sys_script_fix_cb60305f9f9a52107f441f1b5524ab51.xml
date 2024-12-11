@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <before>false</before>
+        <description>ATF-Session-1-Demo4</description>
+        <name>ATF-Session-1-Demo4</name>
+        <record_for_rollback>true</record_for_rollback>
+        <script><![CDATA[//ATF-Session-1-Demo4]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-11 02:52:22</sys_created_on>
+        <sys_id>cb60305f9f9a52107f441f1b5524ab51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ATF-Session-1-Demo4</sys_name>
+        <sys_package display_value="ATF-Session-1-Demo4" source="x_cdltd_atf_sessio">6a7ea49b9f9a52107f441f1b5524ab74</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATF-Session-1-Demo4">6a7ea49b9f9a52107f441f1b5524ab74</sys_scope>
+        <sys_update_name>sys_script_fix_cb60305f9f9a52107f441f1b5524ab51</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-11 02:52:22</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>
